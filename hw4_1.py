@@ -3,4 +3,3 @@ def is_palindrome(string):
 
 
 print(is_palindrome('zazbacvbbcbbvcabzaz'))
-print(is_palindrome('zazbacvbbcbbvcabzaz'))
